@@ -1,0 +1,14 @@
+height : 100vh serve para deixar o body do tamanho a pagina do tamanho do dispostivo que está utilizando
+
+reset css é para tirar toda a pre formatação que vem na página
+
+box-sizng - serve para o elementos não sairem do body e ficar uma loucura
+
+
+site para analsiar o dipslay flex - tem
+
+display : flex (deixa todos os elemntos alinhamos em linha) e podemos alterar isso para colunas ou outras opções
+
+align-intems: center (deixa todos os elemtnos alinhados com o elemnto de maior expressão (como nesse caso do portfolio que é a foto, fica todo mundo alinhado com ele) e temos outras opções tmb
+
+detalhe : separamos as partes em section para o texto ficar do lado da imagem
